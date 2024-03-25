@@ -21,3 +21,12 @@ Atualizando o github:
 
 Criando uma nova brach (Cria outra linha cronologica dentro do seu projeto):
     git checkout -b "<nome da nova branch>"
+
+Restaurando arquivos apagados (No repositório local)
+    git checkout HEAD "<nome do arquivo apagado>"
+
+#Caso você tenha realizado o commit:
+    git reset --hard HEAD~1
+    git checkout HEAD "<nome do arquivo apagado>"
+
+#Para casos diferentes acesso em: https://recoverit.wondershare.com.br/file-recovery/recover-files-from-local-repository-git.html#:~:text=Para%20recuperar%20este%20arquivo%2C%20voc%C3%AA,no%20arquivo%20ap%C3%B3s%20o%20commit.
