@@ -19,7 +19,7 @@ Atualizando o github:
     git commit -m "<Titulo do commit>" (Posta as alterações/novas versões do projeto)
     git push origin main (Envia essas alterações )
 
-Criando uma nova brach (Cria outra linha cronologica dentro do seu projeto):
+Criando uma nova branch (Cria outra linha cronologica dentro do seu projeto):
     git checkout -b "<nome da nova branch>"
 
 Restaurando arquivos apagados (No repositório local)
