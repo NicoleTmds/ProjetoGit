@@ -21,3 +21,4 @@ Atualizando o github:
 
 Criando uma nova brach (Cria outra linha cronologica dentro do seu projeto):
     git checkout -b "<nome da nova branch>"
+    
