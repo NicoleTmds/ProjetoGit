@@ -19,12 +19,5 @@ Atualizando o github:
     git commit -m "<Titulo do commit>" (Posta as alterações/novas versões do projeto)
     git push origin main (Envia essas alterações )
 
-Criando uma nova branch (Cria outra linha cronologica dentro do seu projeto):
+Criando uma nova brach (Cria outra linha cronologica dentro do seu projeto):
     git checkout -b "<nome da nova branch>"
-    git add . 
-    git status 
-    git commit -m "<Titulo do commit>" 
-    git push origin "<nome da nova branch>"
-
-Como mudar de branch (Alterar o fluxo em que estou trabalhando):
-    git checkout "<nome da branch>"
